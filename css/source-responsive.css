@@ -1,0 +1,411 @@
+@media screen and (max-width: 1155px){
+.topHeadInn, .headTopInn {
+	width:auto; padding:4px 15px;
+	}
+.welCome { 
+	width:auto; padding:80px 15px 60px 15px;
+	}
+.head_inn {
+	width:auto; padding:6px 15px;
+	}
+.menu li {
+	padding: 4px 10px;
+	}
+.HomeAboutInn {
+	width:auto; padding:40px 15px;
+	}
+.featureInn {
+	width:auto; padding: 50px 10px 60px;
+	}
+.homeStati {
+	width:auto; padding:0px 15px 20px;
+	}
+.homeClientsInn {
+	width:auto; padding: 50px 10px 60px;
+	}
+.homeTestiInn {
+	width:auto; padding: 50px 10px 60px;
+	}
+.footerInn {
+	width:auto; padding:30px 15px;
+	}
+.newTeam{
+	width:auto; padding:30px 15px;
+	}	
+.copyright {
+	width:auto; padding:0px 15px;
+	}
+.logFilds { width:450px; padding:40px 0px 0px 80px;}	
+.rigRight { min-height:600px !important;}
+.testiWrapInn {
+	width:auto; padding:0px 10px;
+	}
+.staticBanInn { width:auto;}
+.staticPage { width:auto;}
+.blogWrap { width:auto; padding:0px 15px;}
+.faqWrap { width:auto; padding:30px 15px 20px;}
+.atsText p { margin: 0px 0px 0px 50%; width:45%;}
+.atsInnWrap {padding: 60px 15px 50px; width:auto;}
+.atsOutWrap img { width:90%;}
+.teamWrap { width:auto; padding: 40px 15px; text-align:center;}
+.careerWrap { width:auto; padding:30px 15px;}
+.careerCta { min-height:270px;}
+.careerDetails { width:auto; padding:20px 15px;}
+.careerDetailsLeft { width:60%;} .careerDetailsRight { width:38%;}
+.contactWrap { width:auto;padding: 30px 15px 5px;}
+.videoWrap { width:auto; padding:40px 15px;}
+.aboutWrap { width:auto; padding:40px 15px;}
+	.atsTextOne {margin: 0px 0% 0px 3%;}
+	.webpage { width:auto; margin: 0px 10px 0px;}
+
+}
+
+@media screen and (max-width: 1020px){
+.topHead {
+	visibility:hidden; position:static; height:95px;
+	}	
+header{
+	position: fixed; top: 0px; left: 0px;
+	}
+.headTop {
+	display:block !important;
+	}
+nav {
+	display:none;
+	}
+.responsiveMenu {
+	display:block;
+	}
+.menuGapFix {
+	height:0px !important;
+	}
+.welCome {
+	padding:50px 15px;
+	}
+.welComeLeft { 
+	width:100%; text-align:center;
+	}
+.welComeRight {
+	width:100%; text-align:center; padding:0px 5%;
+	}
+.welComeLeft img {
+	width:70%;
+	}
+.welComeRight h1 {
+	padding: 10px 0px 30px 0px;
+	}
+.HomeAboutRight {
+	width:100%; text-align: center; padding-bottom:20px;
+	}
+.HomeAboutRight img {
+	width:80%;
+	}
+.HomeAboutLeft {
+	width:100%; padding:0px 5%;
+	}
+.featureInnCta {
+	width:31.3333%; margin:1%;
+	}
+.homeStati h4 {
+	width:95%;
+	}
+.homeStatiCta {
+	float:none; display:inline-block; width:30%;
+	}
+.homeClientsCta {
+	width:32.3333%; margin:0.5%;
+	}
+.footerInn {
+	padding: 30px 15px 30px 4%;
+	}
+.footerInnCta {
+	width:50%;
+	}
+.footerInnCta b {
+	display:block;
+	}
+.resFoot {
+	display:none;
+	}
+div.skew {
+	max-width: 800px; margin: 0 auto; display: block; overflow: hidden;
+	-webkit-transform: skewX(8deg); -moz-transform: skewX(8deg); -ms-transform: skewX(8deg); transform: skewX(8deg);
+	}	
+div.skew > div.wrap {
+	min-height:530px;
+	-webkit-transform: skewX(-8deg); -moz-transform: skewX(-8deg); -ms-transform: skewX(-8deg); transform: skewX(-8deg);
+	}	
+.logIcon { display:none;}	
+.logWrapLeft { width:100%;}
+.logWrapRight {
+	width:100%; position:absolute; background-color:transparent; box-shadow:0px 0px 0px #000;
+	}
+.logFilds {
+	padding:30px 0px 0px 0px; width:400px; margin:60px auto 0px; background-color:rgba(255,255,255,0.6); border-radius:10px;
+	}
+.logFilds h3 { font-size:30px;}	.logFilds span { color:#333;} .logFildInn b a { color:#333;}
+.logFildInn {
+	box-shadow: 0px 0px 0px rgba(0,0,0,0.2); padding: 20px 40px 40px;
+	}
+.testiWrapCta {
+	width:46%; margin:2%;
+	}
+.staticBanInn img {
+	width:400px; padding:20px 0px;
+	}	
+.blogWrapRight {width:100%;}
+.blogWrapRight h2 i { display:block;}
+.resSlide { display:none;}
+.blogWrapLeft { width:100%;}	
+.blogInn { margin:25px 0px 0px 0px;}			
+.atsText p { width:52%; margin: 0px 0px 0px 43%;}
+.atsInnWrap p { padding:0px;}
+.atsInnRight h3 {padding: 0px 0px 15px 0px;}
+.careerBg p { width:auto; padding:0px 15px;}
+.careerCta { width:98%; min-height:inherit; }
+.careerBg {padding: 100px 0px;}
+.videoPop { width:85%;} .videoPop iframe { height:400px;}
+.videoCta { width:31.333%;}
+
+}
+
+@media screen and (max-width: 760px){
+.stage { padding:0px 5%;}	
+div.skew {
+	-webkit-transform: skewX(0deg); -moz-transform: skewX(0deg); -ms-transform: skewX(0deg); transform: skewX(0deg);
+	}	
+div.skew > div.wrap {
+	min-height:550px; padding:40px 0px; width:auto; margin:0px;
+	-webkit-transform: skewX(-0deg); -moz-transform: skewX(-0deg); -ms-transform: skewX(-0deg); transform: skewX(-0deg);
+	}	
+.wrapText { width:70%;}	
+.wrapText i { font-size:70px;}	
+.testiWrapCta { width:96%; margin:2%;}
+.testiWrapText { min-height:inherit;}	
+.staticBanInn img { display:none;}
+.testiWrapInn h4 { font-size:30px; padding:0px 0px 15px 0px;}
+.testiWrap { padding:25px 0px;}
+.staticBanInn h3 {padding: 80px 15px 15px 0px; }
+.staticPage { padding: 20px 20px 30px;}
+.atsOutWrap h2 { font-size:33px; padding: 40px 0px 10px 0px;}
+.atsOutWrap img { width:95%;}
+.atsText p { width:auto; margin:0px; background-color:rgba(255,255,255,0.6); padding:40px 25px; font-size:16px; line-height:30px; color: #333;}
+.atsTextOne {width:auto; margin:0px; background-color:rgba(255,255,255,0.6); padding:40px 25px; font-size:16px; line-height:30px; color: #333;}	
+.atsInnLeft { width:100%; text-align:center;}
+.atsInnRight { width:100%; text-align:center; float:none;}
+.atsInnRight img, .atsInnLeft img { width:80%; float:none; padding-bottom:20px;}
+.ats1, .ats2 {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+26,ffffff+100&0+0,0.5+52,1+69 */
+background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,0.25) 26%, rgba(255,255,255,0.5) 52%, rgba(255,255,255,1) 69%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.25) 26%,rgba(255,255,255,0.5) 52%,rgba(255,255,255,1) 69%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.25) 26%,rgba(255,255,255,0.5) 52%,rgba(255,255,255,1) 69%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	}
+.atsInnWrap p { font-size:16px; line-height:28px;}	
+.atsInnWrap h3 { padding:0px 0px 15px 0px;}
+.careerDetailsLeft { width:100%;} .careerDetailsRight { width:100%;}
+.contactCta { width:100%;}
+.videoCta { width:48%;}
+.wrapText img { width:106px;}
+.clPop.clPopA {right:490px; top: 10px; width: 50px; height: 50px; border-radius: 25px;}
+.clPop img {width:20px;}
+	
+	.newTeamRight {width:100%;}	
+	.newTeamLeft {width:100%;}	
+	
+}
+
+@media screen and (max-width: 590px){
+.headTop.headTopFix { display:none !important;}	
+.hideres {
+	display:none;
+	}
+.responsiveMenu .freeTril {
+	display:none;
+	}	
+.head_inn { 
+	padding:6px 10px;
+	}
+.topHeadInn, .headTopInn { 
+	padding:4px 8px;
+	}
+.headTopInn ul li {
+	padding: 0px 0px 1px 12px;
+	}
+.logo {
+	width:210px;
+	}
+.welComeLeft img {
+	width:100%;
+	}
+.welComeRight {
+	padding:0px 2%;
+	}
+.welComeRight h1 {
+	font-size:30px; font-weight:300; line-height:42px;
+	}
+.topHead {
+	visibility:hidden; position:static; height:55px;
+	}
+.welComeRight a {
+	margin: 0px 5px; padding: 8px 15px;
+	}
+.HomeAboutInn {
+	padding:30px 15px;
+	}
+.HomeAboutInn h3, .featureInn h3 {
+	margin: 0px 0px 25px 0px; font-size:30px; padding-bottom:10px; line-height:39px;
+	}
+.HomeAboutRight img {
+	width:95%;
+	}
+.HomeAboutLeft {
+	padding:0px 2%;
+	}
+.HomeAboutRight {
+	padding-bottom:10px;
+	}
+.HomeAboutLeft h4 {
+	text-align:center;
+	}
+.featureInn, .homeClientsInn {
+	padding: 40px 10px 40px;
+	}
+.featureInnCta {
+	width:92%; margin:2% 4%;
+	}
+.homeClientsCta {
+	width:48%; margin:1%; height:120px;
+	}
+.homeClientsCta p {
+	width:80px; height:80px; font-size: 15px; padding: 28px 0px 0px 0px; margin: 20px auto 0px;
+	}
+.homeClientsInn h3 {
+	font-size:35px;
+	}
+.homeTestiInn h3 {
+	font-size:35px;
+	}
+.homeStati h3 {
+	padding: 30px 0px 15px 0px; font-size:35px; margin: 0px 0px 20px 0px;
+	}
+.homeStati {
+	padding:0px 5px 25px;
+	}
+.homeStatiCta i {
+	font-size:40px;
+	}
+.homeStatiCta h5 {
+	font-size:21px; padding:2px 0px 0px 0px;
+	}
+.headTop {
+	display: none !important;
+	}
+.responsiveMenu {
+	padding:5px 0px 0px 0px;
+	}
+.featureInnCta i {
+	font-size:45px;
+	}
+.featureInnCta:hover i {
+	font-size:55px;
+	}
+.hfounder {
+	padding: 25px 0px 0px 0px; text-align:center;
+	}
+.hfounder span {
+	display:block; top:0px; padding:5px 0px 0px 0px; text-align:center;
+	}
+.homeStatiCta {
+	width:100%; padding:15px 0px 20px 0px;
+	}
+.homeStatiCta span {
+	width:185px; height:185px;
+	}
+.homeStatiCta i {
+	font-size:60px; padding: 40px 0px 0px 0px;
+	}	
+.homeStatiCta h5 {
+	font-size:26px;
+	}
+.homeStatiCta p {
+	padding:10px 0px 0px 0px;
+	}	
+.cd-testimonials-wrapper {
+	width:100%; padding:0px 20px;
+	}	
+.footerInnCta {
+	width:100%; padding:10px 0px;
+	}	
+.copyright b {
+	display:block; float:none; text-align:center;
+	}		
+.copyright span {
+	display:block; float:none; text-align: center; padding:2px 0px 0px 0px;
+	}	
+.stage { padding:0px;}		
+.wrapText { width:85%;}
+.wrapText h3 { font-size:30px; line-height:40px; padding:8px 0px 0px 0px;}
+.wrapText p { font-size:15px; line-height:24px; padding: 10px 0px 15px 0px;}
+.menuCl {right:7px; top:10px;}
+
+.scrool, .scroolC {
+	max-height:320px; overflow:hidden; overflow-y:auto;
+	}
+.scroolC { max-height:380px;}	
+.menuGapInpage { height:55px} .logFilds h3 { font-size:25px;}
+.logFilds {
+	margin:30px auto 0px; width:90%; padding: 25px 0px 0px 0px;
+	}
+.logFildInn { padding: 15px 25px 35px;}
+.logWrapRight, .logWrapLeft{
+	min-height:400px;
+	}	
+.rigRight { min-height:550px !important;}
+.staticBanInn h3 {padding: 50px 15px 15px 0px; font-size:25px; }
+.staticBan.blogBan h4 {padding: 50px 15px 15px 0px; font-size:25px; }
+.testiWrapInn h4 { font-size:25px;}
+.testiWrapCta { width:96%; margin:2% 2% 5%;}
+.testiWrapText { padding:20px;}
+.blogInn { margin:20px 0px 0px 0px;}
+.faqCta {padding: 15px 15px;}
+
+.freeTrialPop {width:100%;}
+.freeTrialfilds { padding:18px; width:92%;}
+.freeTrialTop h3 { font-size:26px;}
+.atsOutWrap h2 {padding: 30px 0px 5px 0px; font-size:30px;}
+.atsText p {padding: 30px 20px;}
+.atsInnWrap {padding: 40px 15px;}
+.atsInnRight img, .atsInnLeft img { width:95%;}
+.careerBg.teamBg, .careerBg{ padding: 50px 0px;}
+.careerBg.contactBg { padding:50px 0px;}
+.careerBg.careerBg_a { padding:30px 0px;}
+.teamWrap { padding:35px 15px;}
+.careerBg h2 {font-size:30px; padding: 0px 10px 10px;}
+.careerBg p { font-size:16px; line-height:25px;} .teamWrap h3 { padding:0px 0px 15px 0px;}
+.careerWrap { padding:25px 10px;}
+.careerCta { margin:2% 1%; padding: 30px 20px 25px;}
+.careerDetailsLeft { padding: 20px 15px;} .jobApply, .jobDetails { padding:15px;}
+.contactCta { padding:0px 5px 30px;}
+.videoWrap { padding:30px 15px;}
+.videoCta { width:98%;}
+.careerBg.videoBg { padding:30px 0px;}
+.videoBg img { width:70px;}
+.videoPop { width:90%;} .videoPop iframe { height:300px;}
+.aboutWrap { padding:30px 15px;}
+.aboutWrap img { width:85%;}
+.aboutWrap h3 { font-size:30px; padding:0px 0px 10px 0px;}
+.aboutWrap p { font-size:16px; line-height:27px;}
+.blogRightBot a { padding: 8px 12px;}
+.atsTextInn h3 { font-size:30px;padding: 0px 0px 15px 0px;}
+.clPop.clPopA {top: 10px; left: 10px;}
+.Rdemo img {width:85%; padding: 80px 0px 15px 0px; font-size: 30px;}
+.Rdemo h3 {font-size: 30px;}
+.Rdemo p {padding: 30px 30px 15px;}
+	.newTeam {padding: 25px 10px;}
+	.newTeamRight img {width:80%;}
+	.webpage img {
+		width:80%;
+	}
+
+}
